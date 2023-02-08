@@ -45,24 +45,12 @@
 <div align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats</b></b>
 </div>
-<div align="center">
- <table>
-  <tbody>
-    <tr>
-      <td>
-        <a>
-          <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nesnidev&show_icons=true&hide_border=true&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8&count_private=true&include_all_commits=true" />
-        </a>
-      </td>
-      <td>
-        <a>
-          <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesnidev&layout=compact&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8&hide_border=true&count_private=true&include_all_commits=true&langs_count=8&count-private=true)](https://github.com/anuraghazra/github-readme-stats">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<p align="center">
+    <a href="https://github.com/azizovrafael">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nesnidev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nesnidev&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+    </a>
+</p>
 <div>
   <h2 align="center">Contact with me 📝 </h2>
   <p align="center">
