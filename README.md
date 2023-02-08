@@ -44,6 +44,7 @@
 </div>
 <div align="center">
   <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats</b></b>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nesnidev&layout=compact&langs_count=8&theme=algolia"/>
  </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nesnidev&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
