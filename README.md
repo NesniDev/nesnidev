@@ -47,7 +47,7 @@
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nesnidev&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nesnidev&layout=compact&langs_count=8&theme=algolia" width="35"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nesnidev&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 <div>
   <h2 align="center">Contact with me 📝 </h2>
