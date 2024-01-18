@@ -14,7 +14,7 @@
  
  <p align="center">
   <em>
-    Welcome to my GitHub! I'm Neider Nieto, recent graduate of <b>systems engineering</b> <br>from the <a href="https://www.unisangil.edu.co/" target="_blank">University of San Gil - Colombia </a>and specialist in <b>strategic marketing</b>, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <br> I'm passionate about <b>Frontend programming. 
+    Welcome to my GitHub! I'm Neider Nieto,and my profession is <b>systems engineering</b> <br>from the <a href="https://www.unisangil.edu.co/" target="_blank">University of San Gil - Colombia </a>and i'm specialist in <b>strategic marketing</b>, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <br> I'm passionate about <b>Frontend programming. 
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   </em> 
 </p>
