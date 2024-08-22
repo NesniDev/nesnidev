@@ -26,69 +26,73 @@
 </div>
 <p align="center">
 &nbsp;
-<p align="center">
-  <strong>Frontend</strong>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,nextjs,react,angular,tailwind,bootstrap,vite,md,wordpress,htmx&perline=7" alt="Frontend" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Frontend</strong>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,nextjs,react,angular,tailwind,bootstrap,vite,md,wordpress,htmx&perline=7" alt="Frontend" />
+      </a>
+    </td>
+    <td align="center">
+      <strong>Languages</strong>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,java,python,php,typescript&perline=5" alt="Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Backend</strong>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,postman,mongodb,mysql,postgres&perline=6" alt="Backend" />
+      </a>
+    </td>
+    <td align="center">
+      <strong>Version Control</strong>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github&perline=4" alt="Version Control" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>DevOps & Servers</strong>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,windows,cloudflare,vercel,netlify,apache&perline=5" alt="DevOps & Servers" />
+      </a>
+    </td>
+    <td align="center">
+      <strong>Tools & Design</strong>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,figma,blender,sublime,codepen,notion&perline=5" alt="Tools & Design" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Shell & Terminal</strong>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=bash,zsh&perline=3" alt="Shell & Terminal" />
+      </a>
+    </td>
+    <td align="center">
+      <strong>Utilities & Dependencies</strong>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=discord,bun,npm,pnpm,yarn&perline=14" alt="Utilities & Dependencies" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <strong>Languages</strong>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,php,typescript&perline=5" alt="Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Backend</strong>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postman,mongodb,mysql,postgres&perline=6" alt="Backend" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Version Control</strong>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github&perline=4" alt="Version Control" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>DevOps & Servers</strong>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,windows,cloudflare,vercel,netlify,apache&perline=5" alt="DevOps & Servers" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Tools & Design</strong>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,blender,sublime,codepen,notion&perline=5" alt="Tools & Design" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Shell & Terminal</strong>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,zsh&perline=3" alt="Shell & Terminal" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Utilities & Dependencies</strong>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,bun,npm,pnpm,yarn&perline=14" alt="Utilities & Other" />
-  </a>
-</p>
 
 <div align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats</b></b>
