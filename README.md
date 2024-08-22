@@ -95,13 +95,14 @@
 
 
 <div align="center">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats</b></b>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics</b>
 </div>
+
 <p align="center">
-    <a href="https://github.com/azizovrafael">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nesnidev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nesnidev&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-    </a>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nesnidev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nesnidev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 <div>
 
