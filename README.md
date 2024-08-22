@@ -92,7 +92,7 @@
 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="50"><h2> GitHub Analytics</h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"><h2> GitHub Analytics</h2>
 </div>
 
 <p align="center">
