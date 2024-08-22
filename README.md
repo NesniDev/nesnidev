@@ -105,14 +105,13 @@
 </p>
 <div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
   <h2 align="center">Contact with me 📝 </h2>
   <p align="center">
-  <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Rutvik Dev / Desg" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/neider_niet0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/neider-stith-nieto-rodriguez-767869226/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rutvikjoshi" height="30" width="40" /></a>
-  <a href="https://www.behance.net/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="rutvikj" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="OrionRJ7" height="30" width="40" /></a>
-  </p>
-</8div>
+  <a href="https://www.linkedin.com/in/neidernieto/"><img alt="Linkedin" title="Linkedin de Neider Nieto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/neider_niet0/"><img alt="Instagram" title="Instagram de Neider Nieto" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:nestnidev17@gmail.com"><img alt="Gmail" title="Correo Neider Nieto" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://x.com/NeiderNieto10"><img alt="X" title="X de Neider Nieto" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
+</div>
