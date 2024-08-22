@@ -1,6 +1,8 @@
+
 <div align="center">
 <h1><b>Hi, I'm Neider </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="50px"></h1>
 </div>
+
 
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ing.+Neider+Nieto;Developer+Front-End;Systems+Engineering;Active+Learner/Researcher;Love+to+learn+new+stuffs"></a>
@@ -18,15 +20,10 @@
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   </em> 
 </p>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css, javascript,astro,git,github,cpp,discord,postgres,express,figma,java,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,angular,tailwind,ts,vscode,arduino,babel,bash,blender,bootstrap,bun,cloudflare,codepen,debian,eclipse,htmx,ai,kali,netlify,npm,notion,php,pnpm,sublime,vite,wordpress,yarn,ubuntu&perline=14" />
-  </a>
-</p>
-<div align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"" width ="25"><b>Technologies That I Know👨🏻‍💻</b>
 
+<div align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"" width="25"><b>Technologies That I Know👨🏻‍💻</b>
+</div>
 <p align="center">
 &nbsp;
 <p align="center">
@@ -103,6 +100,9 @@
     </a>
 </p>
 <div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   <h2 align="center">Contact with me 📝 </h2>
   <p align="center">
   <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Rutvik Dev / Desg" height="30" width="40" /></a>
