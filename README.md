@@ -3,9 +3,9 @@
 <h1><b>Hi, I'm Neider </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="50px"></h1>
 </div>
 
-
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ing.+Neider+Nieto;Developer+Front-End;Systems+Engineering;Active+Learner/Researcher;Love+to+learn+new+stuffs"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=f3c10a&size=25&center=false&lines=Ing.+Neider+Nieto...;Systems+Engineering...;Instructor+Systems;Developer+Front-End..."/>
+
 </p>
 
 
