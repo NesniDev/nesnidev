@@ -18,8 +18,8 @@
   </em> 
 </p>
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"" width="25"><b>Technologies That I Know👨🏻‍💻</b>
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50" height="50"><h2>Technologies That I Know👨🏻‍💻</h2>
 </div>
 <p align="center">
 &nbsp;
@@ -91,8 +91,8 @@
 </table>
 
 
-<div align="center">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics</b>
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="50"><h2> GitHub Analytics</h2>
 </div>
 
 <p align="center">
@@ -104,7 +104,7 @@
 
 
 
-  <h2 align="center">Contact with me 📝 </h2>
+  <h2 align="center" style="display: flex; justify-content: center; align-items: center;">Contact with me 📝 </h2>
   <p align="center">
   <a href="https://www.linkedin.com/in/neidernieto/"><img alt="Linkedin" title="Linkedin de Neider Nieto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/neider_niet0/"><img alt="Instagram" title="Instagram de Neider Nieto" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
