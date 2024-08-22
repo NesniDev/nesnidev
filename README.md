@@ -21,7 +21,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, javascript,astro,git,github,cpp,discord,postgres,express,figma,java,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,angular,tailwind,ts,vscode,arduino,babel,bash,blender,bootstrap,bun,cloudflare,codepen,debian,eclipse,htmx,ai,kali,netlify,npm,notion,php,pnpm,sublime,vite,wordpress,yarn,ubuntu&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css, javascript,astro,git,github,cpp,discord,postgres,express,figma,java,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,angular,tailwind,ts,vscode,arduino,babel,bash,blender,bootstrap,bun,cloudflare,codepen,debian,eclipse,htmx,ai,kali,netlify,npm,notion,php,pnpm,sublime,vite,wordpress,yarn,ubuntu&perline=14" />
   </a>
 </p>
 <div align="center">
@@ -33,7 +33,7 @@
   <strong>Frontend</strong>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,nextjs,react,angular,typescript,tailwind,bootstrap,materialui,vite&perline=7" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,nextjs,react,angular,tailwind,bootstrap,vite,md,wordpress,htmx&perline=7" alt="Frontend" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@
   <strong>Languages</strong>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,php,javascript,typescript&perline=5" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,php,typescript&perline=5" alt="Languages" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@
   <strong>Backend</strong>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postman,mongodb,mysql,postgres&perline=7" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postman,mongodb,mysql,postgres&perline=6" alt="Backend" />
   </a>
 </p>
 
@@ -65,7 +65,7 @@
   <strong>DevOps & Servers</strong>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,cloudflare,apache&perline=5" alt="DevOps & Servers" />
+    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,windows,cloudflare,vercel,netlify,apache&perline=5" alt="DevOps & Servers" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@
   <strong>Tools & Design</strong>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,blender,sublime,codepen,notion,discord,vscode&perline=6" alt="Tools & Design" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,blender,sublime,codepen,notion&perline=5" alt="Tools & Design" />
   </a>
 </p>
 
@@ -81,7 +81,15 @@
   <strong>Shell & Terminal</strong>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,zsh,terminal&perline=3" alt="Shell & Terminal" />
+    <img src="https://skillicons.dev/icons?i=bash,zsh&perline=3" alt="Shell & Terminal" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Utilities & Dependencies</strong>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,bun,npm,pnpm,yarn&perline=14" alt="Utilities & Other" />
   </a>
 </p>
 
