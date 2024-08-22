@@ -19,7 +19,7 @@
 </p>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50" height="50"><h2>Technologies That I Know👨🏻‍💻</h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"><h2>Technologies That I Know👨🏻‍💻</h2>
 </div>
 <p align="center">
 &nbsp;
@@ -92,7 +92,7 @@
 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"><h2> GitHub Analytics</h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20"><h2> GitHub Analytics</h2>
 </div>
 
 <p align="center">
