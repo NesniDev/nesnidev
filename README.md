@@ -25,45 +25,66 @@
   </a>
 </p>
 <div align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Languages and Tools</b>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"" width ="25"><b>Technologies That I Know👨🏻‍💻</b>
 
 <p align="center">
 &nbsp;
 <p align="center">
+  <strong>Frontend</strong>
+  <br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,nextjs,react,angular,typescript,tailwind,bootstrap,materialui,vite&perline=7" alt="Frontend" />
   </a>
 </p>
+
 <p align="center">
+  <strong>Languages</strong>
+  <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,php,typescript&perline=5" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,php,javascript,typescript&perline=5" alt="Languages" />
   </a>
 </p>
+
 <p align="center">
+  <strong>Backend</strong>
+  <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postman,mongodb,mysql,postgres,sqlite&perline=7" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postman,mongodb,mysql,postgres&perline=7" alt="Backend" />
   </a>
 </p>
+
 <p align="center">
+  <strong>Version Control</strong>
+  <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket&perline=4" alt="Version Control" />
+    <img src="https://skillicons.dev/icons?i=git,github&perline=4" alt="Version Control" />
   </a>
 </p>
+
 <p align="center">
+  <strong>DevOps & Servers</strong>
+  <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,cloudflare,nginx,apache&perline=5" alt="DevOps & Servers" />
+    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,cloudflare,apache&perline=5" alt="DevOps & Servers" />
   </a>
 </p>
+
 <p align="center">
+  <strong>Tools & Design</strong>
+  <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,blender,sublime,codepen,notion,discord&perline=6" alt="Tools & Design" />
+    <img src="https://skillicons.dev/icons?i=figma,blender,sublime,codepen,notion,discord,vscode&perline=6" alt="Tools & Design" />
   </a>
 </p>
+
 <p align="center">
+  <strong>Shell & Terminal</strong>
+  <br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,zsh,terminal&perline=3" alt="Shell & Terminal" />
   </a>
 </p>
+
 <div align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats</b></b>
 </div>
