@@ -1,6 +1,7 @@
+<img src="./Banner.png">
 
-<div align="center">
-<h1><b>Hi, I'm Neider </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="50px"></h1>
+<div >
+<h1 align="center"><b>Hi, I'm Neider </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="50px"></h1>
 </div>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=f3c10a&size=25&center=true&lines=Ing.+Neider+Nieto...;Systems+Engineering...;Instructor+Systems;Developer+Front-End..."/>
@@ -18,8 +19,8 @@
   </em> 
 </p>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"><h2>Technologies That I Know👨🏻‍💻</h2>
+<div align="center" ">
+  <h2>Technologies That I Know👨🏻‍💻</h2>
 </div>
 <p align="center">
 &nbsp;
@@ -91,8 +92,8 @@
 </table>
 
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20"><h2> GitHub Analytics</h2>
+<div align="center">
+    <h2> GitHub Analytics</h2>
 </div>
 
 <p align="center">
