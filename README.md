@@ -1,4 +1,3 @@
-<img src="./Banner.png">
 
 <div >
 <h1 align="center" style="margin: 5px;"><b>Hi, I'm Neider </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="50px"></h1>
@@ -6,6 +5,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=f3c10a&size=25&center=true&lines=Ing.+Neider+Nieto...;Systems+Engineering...;Instructor+Systems;Developer+Front-End..."/>
 </div>
+<img src="./Banner.png">
 
 <div align="center">
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
