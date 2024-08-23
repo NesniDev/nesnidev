@@ -103,17 +103,16 @@
 
 
 <div align="center">
-<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px">
     <h2>📈 GitHub Analytics</h2>
 </div>
-<div>
+
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesnidev-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=nesnidev-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="analytics"/>
+
+  <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="150em" alt="analytics">
 </div>
 
-
-
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nesnidev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
   <h2 align="center" style="display: flex; justify-content: center; align-items: center;">Contact with me 📝 </h2>
   <p align="center">
