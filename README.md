@@ -112,15 +112,20 @@
 </div>
 <h2>💼 Some of my Public Repositories</h2> 
 
-<a href="https://github.com/NesniDev/Portfolio-Neider.dev">
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=walleeva2018&repo=ML&theme=onedark" />
-</a>  
-
-<a href="https://github.com/NesniDev/Portfolio-Neider.dev">
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=walleeva2018&repo=ML&theme=onedark" />
-</a>  
+  <p align="center">
+    <a href="https://github.com/NesniDev/Portfolio-Neider.dev">
+      <img align="center" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=nesnidev&repo=Portfolio-Neider.dev&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+    </a>
+    <a href="https://github.com/NesniDev/Page-Lawyer">
+      <img align="center" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=nesnidev&repo=Page-Lawyer&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+    </a>
+    <a href="https://github.com/NesniDev/ArtexAlex">
+      <img align="center" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=nesnidev&repo=ArtexAlex&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+    </a>
+    <a href="https://github.com/NesniDev/Page-Bar.dev">
+      <img align="center" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=nesnidev&repo=Page-Bar.dev&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+    </a>
+  </p>
 
   <h2 align="center" style="display: flex; justify-content: center; align-items: center;">Contact with me 📝 </h2>
   <p align="center">
