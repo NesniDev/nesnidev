@@ -110,7 +110,17 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="analytics"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nesnidev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
+<h2>💼 Some of my Public Repositories</h2> 
 
+<a href="https://github.com/NesniDev/Portfolio-Neider.dev">
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=walleeva2018&repo=ML&theme=onedark" />
+</a>  
+
+<a href="https://github.com/NesniDev/Portfolio-Neider.dev">
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=walleeva2018&repo=ML&theme=onedark" />
+</a>  
 
   <h2 align="center" style="display: flex; justify-content: center; align-items: center;">Contact with me 📝 </h2>
   <p align="center">
