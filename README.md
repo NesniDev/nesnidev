@@ -19,6 +19,16 @@
   </em> 
 </p>
 
+<h3> 🕵🏼‍♂️ &nbsp;About Me </h3>
+
+- 💻 &nbsp; Systems engineer with a focus on web development and automation.
+- 🎓 &nbsp; Instructor in systems and IT, guiding future professionals in the world of technology.
+- 📈 &nbsp; Specialist in strategic marketing, combining technical and business knowledge.
+- 💭 &nbsp; Always exploring new technologies and developing creative solutions.
+- ⚽ &nbsp; Football enthusiast and passionate about continuously learning the latest technological trends.
+
+
+
 <div align="center" ">
   <h2>Technologies That I Know👨🏻‍💻</h2>
 </div>
@@ -93,7 +103,7 @@
 
 
 <div align="center">
-    <h2> GitHub Analytics</h2>
+    <h2>📈 GitHub Analytics</h2>
 </div>
 
 <p align="center">
