@@ -1,4 +1,4 @@
-<img src="./Banner.png">
+<!-- <img src="./Banner.png"> -->
 
 <div >
  <h1 align="center" style="margin: 5px;"><b>Hi, I'm Neider </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="50px"></h1>
