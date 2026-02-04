@@ -21,7 +21,9 @@
 
 <h3> 🕵🏼‍♂️ &nbsp;More About Me </h3>
 
-- 💻 &nbsp; Systems engineer with a focus on web development and automation.
+- 💻 <a href="[https://skillicons.dev](https://github.com/NesniDev/Field-Football)">
+        Systems engineer with a focus on web development and automation.
+      </a> 
 - 🎓 &nbsp; Instructor in systems and IT, guiding future professionals in the world of technology.
 - 📈 &nbsp; Specialist in strategic marketing, combining technical and business knowledge.
 - 💭 &nbsp; Always exploring new technologies and developing creative solutions.
