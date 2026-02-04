@@ -14,7 +14,7 @@
  
  <p align="center">
   <em>
-    Welcome to my GitHub! I'm Neider Nieto,and my profession is <b>systems engineering</b> and i'm specialist in <b>strategic marketing</b><br> I'm passionate about <b>Frontend programming. 
+    > Welcome to my GitHub! I'm Neider Nieto,and my profession is <b>systems engineering</b> and i'm specialist in <b>strategic marketing</b><br> I'm passionate about <b>Frontend programming. 
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
   </em> 
 </p>
@@ -29,7 +29,6 @@
 - 🖥️ [Técnico en Sistemas](https://github.com/NesniDev/TecnicoSistemas) — Educational platform for systems and IT training.  
 - ⚖️ [Page Lawyer](https://github.com/NesniDev/Page-Lawyer) — Professional website for a lawyer offering legal services 
 - 🎨 [Artex Alex](https://github.com/NesniDev/ArtexAlex) — Creative website to showcase handmade products made with metal and wood.
-
 
 <div>
   <h2>Technologies That I Know</h2>
@@ -112,24 +111,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="analytics"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nesnidev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
-<h2 align="center">💼 Some of my Public Repositories</h2> 
 
-  <p align="center">
-    <a href="https://github.com/NesniDev/Portfolio-Neider.dev">
-      <img align="center" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=nesnidev&repo=Portfolio-Neider.dev&theme=nightowl&show_owner=true" alt="Cryptos Project" />
-    </a>
-    <a href="https://github.com/NesniDev/Page-Lawyer">
-      <img align="center" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=nesnidev&repo=Page-Lawyer&theme=nightowl&show_owner=true" alt="Cryptos Project" />
-    </a>
-    <a href="https://github.com/NesniDev/ArtexAlex">
-      <img align="center" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=nesnidev&repo=ArtexAlex&theme=nightowl&show_owner=true" alt="Cryptos Project" />
-    </a>
-    <a href="https://github.com/NesniDev/Page-Bar.dev">
-      <img align="center" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=nesnidev&repo=Page-Bar.dev&theme=nightowl&show_owner=true" alt="Cryptos Project" />
-    </a>
-  </p>
-
-  <h2 align="center" style="display: flex; justify-content: center; align-items: center;">Contact with me 📝 </h2>
+  <h2 align="center" style="display: flex; justify-content: center; align-items: center;">Contact with me </h2>
   <p align="center">
   <a href="https://www.linkedin.com/in/neidernieto/"><img alt="Linkedin" title="Linkedin de Neider Nieto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/neider_niet0/"><img alt="Instagram" title="Instagram de Neider Nieto" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
