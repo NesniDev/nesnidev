@@ -14,7 +14,7 @@
  
  <p align="center">
   <em>
-    > Welcome to my GitHub! I'm Neider Nieto,and my profession is </br> <b>systems engineering</b> and i'm specialist in <b>strategic marketing</b><br> I'm passionate about <b>Frontend programming. 
+    Welcome to my GitHub! I'm Neider Nieto,and my profession is <br> <b>systems engineering</b> and i'm specialist in <b>strategic marketing</b><br> I'm passionate about <b>Frontend programming. 
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
   </em> 
 </p>
