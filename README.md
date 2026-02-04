@@ -1,10 +1,10 @@
 <img src="./Banner.png">
 
 <div >
-<h1 align="center" style="margin: 5px;"><b>Hi, I'm Neider </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="50px"></h1>
+ <h1 align="center" style="margin: 5px;"><b>Hi, I'm Neider </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="50px"></h1>
 </div>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=f3c10a&size=25&center=true&lines=Ing.+Neider+Nieto...;Systems+Engineering...;Instructor+Systems;Developer+Front-End..."/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=f3c10a&size=25&center=true&lines=Ing.+Neider+Nieto...;Systems+Engineering...;Instructor+Systems;Developer+Front-End..."/>
 </div>
 
 <div align="center">
@@ -14,8 +14,8 @@
  
  <p align="center">
   <em>
-    Welcome to my GitHub! I'm Neider Nieto,and my profession is <b>systems engineering</b> <br>from the <a href="https://www.unisangil.edu.co/" target="_blank">University of San Gil - Colombia </a>and i'm specialist in <b>strategic marketing</b>, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <br> I'm passionate about <b>Frontend programming. 
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+    Welcome to my GitHub! I'm Neider Nieto,and my profession is <b>systems engineering</b> and i'm specialist in <b>strategic marketing</b><br> I'm passionate about <b>Frontend programming. 
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
   </em> 
 </p>
 
@@ -23,7 +23,7 @@
 
 
 - ⚽ [Field Football](https://github.com/NesniDev/Field-Football) — Football management system for teams, players, and match tracking.
-- 🎓 [BOT IFE](https://github.com/NesniDev/BOT-IFE) — Academic chatbot for institutional information.  
+- 🤖 [BOT IFE](https://github.com/NesniDev/BOT-IFE) — Academic chatbot for institutional information.  
 - 📈 [Portfolio](https://github.com/NesniDev/Portfolio-Neider.dev) — Personal portfolio showcasing projects, skills, and experience.  
 - 💭 [ChatGPT Local](https://github.com/NesniDev/CHATGPT-LOCAL) — Local AI assistant running LLM models offline.  
 - 🖥️ [Técnico en Sistemas](https://github.com/NesniDev/TecnicoSistemas) — Educational platform for systems and IT training.  
