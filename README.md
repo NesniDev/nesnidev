@@ -19,20 +19,20 @@
   </em> 
 </p>
 
-<h3> 🕵🏼‍♂️ &nbsp;More About Me </h3>
-
-- 💻 <a href="[https://skillicons.dev](https://github.com/NesniDev/Field-Football)">
-        Systems engineer with a focus on web development and automation.
-      </a> 
-- 🎓 &nbsp; Instructor in systems and IT, guiding future professionals in the world of technology.
-- 📈 &nbsp; Specialist in strategic marketing, combining technical and business knowledge.
-- 💭 &nbsp; Always exploring new technologies and developing creative solutions.
-- ⚽ &nbsp; Football enthusiast and passionate about continuously learning the latest technological trends.
+<h3>Current Projects</h3>
 
 
+- ⚽ [Field Football](https://github.com/NesniDev/Field-Football) — Football management system for teams, players, and match tracking.
+- 🎓 [BOT IFE](https://github.com/NesniDev/BOT-IFE) — Academic chatbot for institutional information.  
+- 📈 [Portfolio](https://github.com/NesniDev/Portfolio-Neider.dev) — Personal portfolio showcasing projects, skills, and experience.  
+- 💭 [ChatGPT Local](https://github.com/NesniDev/CHATGPT-LOCAL) — Local AI assistant running LLM models offline.  
+- 🖥️ [Técnico en Sistemas](https://github.com/NesniDev/TecnicoSistemas) — Educational platform for systems and IT training.  
+- ⚖️ [Page Lawyer](https://github.com/NesniDev/Page-Lawyer) — Professional website for a lawyer offering legal services 
+- 🎨 [Artex Alex](https://github.com/NesniDev/ArtexAlex) — Creative website to showcase handmade products made with metal and wood.
 
-<div align="center" ">
-  <h2>Technologies That I Know👨🏻‍💻</h2>
+
+<div>
+  <h2>Technologies That I Know</h2>
 </div>
 <p align="center">
 &nbsp;
