@@ -15,7 +15,11 @@ jobs:
 
       - name: Obtener repos
         run: |
-          curl -s https://api.github.com/users/${{ github.repository_owner }}/repos > repos.json
+          curl -s \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Accept: application/vnd.github.mercy-preview+json" \
+          https://api.github.com/user/repos?per_page=100 \
+          > repos.json
 
       - name: Generar lista filtrada
         run: |
