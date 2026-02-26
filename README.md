@@ -22,7 +22,6 @@
 <h2>Featured Projects</h3>
 
 <!-- START_PROJECTS -->
-## 🚀 Proyectos Destacados
 
 - [ArtexAlex](https://github.com/NesniDev/ArtexAlex) - Creative website to showcase handmade products made with metal and wood.
 - [BOT-IFE](https://github.com/NesniDev/BOT-IFE) - Academic chatbot for institutional information.  
