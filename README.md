@@ -23,24 +23,14 @@
 
 <!-- START_PROJECTS -->
 
-## 🚀 Proyectos Destacados
-
 - [ArtexAlex](https://github.com/NesniDev/ArtexAlex) - Creative website to showcase handmade products made with metal and wood.
 - [BOT-IFE](https://github.com/NesniDev/BOT-IFE) - Academic chatbot for institutional information.
 - [CHATGPT-LOCAL](https://github.com/NesniDev/CHATGPT-LOCAL) - Local AI assistant running LLM models offline.
 - [Field-Football](https://github.com/NesniDev/Field-Football) - Football management system for teams, players, and match tracking.
-- [Page-Lawyer](https://github.com/NesniDev/Page-Lawyer) - Professional website for a lawyer offering legal services
+- [InventarioVL](https://github.com/NesniDev/InventarioVL) - Sin descripción
+- [Page-Lawyer](https://github.com/NesniDev/Page-Lawyer) - Professional website for a lawyer offering legal services 
 - [Portfolio-Neider.dev](https://github.com/NesniDev/Portfolio-Neider.dev) - Personal portfolio showcasing projects, skills, and experience.
   <!-- END_PROJECTS -->
-  <!--
-- ⚽ [Field Football](https://github.com/NesniDev/Field-Football) — Football management system for teams, players, and match tracking.
-- 🤖 [BOT IFE](https://github.com/NesniDev/BOT-IFE) — Academic chatbot for institutional information.
-- 📈 [Portfolio](https://github.com/NesniDev/Portfolio-Neider.dev) — Personal portfolio showcasing projects, skills, and experience.
-- 💭 [ChatGPT Local](https://github.com/NesniDev/CHATGPT-LOCAL) — Local AI assistant running LLM models offline.
-- 🖥️ [Técnico en Sistemas](https://github.com/NesniDev/TecnicoSistemas) — Educational platform for systems and IT training.
-- ⚖️ [Page Lawyer](https://github.com/NesniDev/Page-Lawyer) — Professional website for a lawyer offering legal services
-- 🎨 [Artex Alex](https://github.com/NesniDev/ArtexAlex) — Creative website to showcase handmade products made with metal and wood.
-  -->
 
 <div>
   <h2>Technologies That I Know</h2>
