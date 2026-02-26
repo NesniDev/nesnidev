@@ -19,9 +19,9 @@
   </em> 
 </p>
 
-<h3>Current Projects</h3>
+<h2>Featured Projects</h3>
 
-
+<!-- START_PROJECTS -->
 - ⚽ [Field Football](https://github.com/NesniDev/Field-Football) — Football management system for teams, players, and match tracking.
 - 🤖 [BOT IFE](https://github.com/NesniDev/BOT-IFE) — Academic chatbot for institutional information.  
 - 📈 [Portfolio](https://github.com/NesniDev/Portfolio-Neider.dev) — Personal portfolio showcasing projects, skills, and experience.  
@@ -29,6 +29,8 @@
 - 🖥️ [Técnico en Sistemas](https://github.com/NesniDev/TecnicoSistemas) — Educational platform for systems and IT training.  
 - ⚖️ [Page Lawyer](https://github.com/NesniDev/Page-Lawyer) — Professional website for a lawyer offering legal services 
 - 🎨 [Artex Alex](https://github.com/NesniDev/ArtexAlex) — Creative website to showcase handmade products made with metal and wood.
+
+<!-- END_PROJECTS -->
 
 <div>
   <h2>Technologies That I Know</h2>
