@@ -1,0 +1,37 @@
+name: Actualizar proyectos en README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # cada 6 horas
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Obtener repos
+        run: |
+          curl -s https://api.github.com/users/${{ github.repository_owner }}/repos > repos.json
+
+      - name: Generar lista filtrada
+        run: |
+          echo "## 🚀 Proyectos Destacados" > proyectos.md
+          echo "" >> proyectos.md
+          jq -r '.[] | select(.topics[]? == "mostrar-en-perfil") | "- [\(.name)](\(.html_url)) - \(.description // "Sin descripción")"' repos.json >> proyectos.md
+
+      - name: Reemplazar sección en README
+        run: |
+          awk '/<!-- START_PROJECTS -->/{print;system("cat proyectos.md");f=1;next} /<!-- END_PROJECTS -->/{f=0} !f' README.md > temp.md
+          mv temp.md README.md
+
+      - name: Hacer commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Actualizar proyectos automáticamente" || echo "Sin cambios"
+          git push
