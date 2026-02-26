@@ -22,24 +22,25 @@
 <h2>Featured Projects</h3>
 
 <!-- START_PROJECTS -->
+
 ## 🚀 Proyectos Destacados
 
 - [ArtexAlex](https://github.com/NesniDev/ArtexAlex) - Creative website to showcase handmade products made with metal and wood.
-- [BOT-IFE](https://github.com/NesniDev/BOT-IFE) - Academic chatbot for institutional information.  
-- [CHATGPT-LOCAL](https://github.com/NesniDev/CHATGPT-LOCAL) - Local AI assistant running LLM models offline. 
+- [BOT-IFE](https://github.com/NesniDev/BOT-IFE) - Academic chatbot for institutional information.
+- [CHATGPT-LOCAL](https://github.com/NesniDev/CHATGPT-LOCAL) - Local AI assistant running LLM models offline.
 - [Field-Football](https://github.com/NesniDev/Field-Football) - Football management system for teams, players, and match tracking.
-- [Page-Lawyer](https://github.com/NesniDev/Page-Lawyer) - Professional website for a lawyer offering legal services 
+- [Page-Lawyer](https://github.com/NesniDev/Page-Lawyer) - Professional website for a lawyer offering legal services
 - [Portfolio-Neider.dev](https://github.com/NesniDev/Portfolio-Neider.dev) - Personal portfolio showcasing projects, skills, and experience.
-<!-- END_PROJECTS -->
-<!-- 
+  <!-- END_PROJECTS -->
+  <!--
 - ⚽ [Field Football](https://github.com/NesniDev/Field-Football) — Football management system for teams, players, and match tracking.
-- 🤖 [BOT IFE](https://github.com/NesniDev/BOT-IFE) — Academic chatbot for institutional information.  
-- 📈 [Portfolio](https://github.com/NesniDev/Portfolio-Neider.dev) — Personal portfolio showcasing projects, skills, and experience.  
-- 💭 [ChatGPT Local](https://github.com/NesniDev/CHATGPT-LOCAL) — Local AI assistant running LLM models offline.  
-- 🖥️ [Técnico en Sistemas](https://github.com/NesniDev/TecnicoSistemas) — Educational platform for systems and IT training.  
-- ⚖️ [Page Lawyer](https://github.com/NesniDev/Page-Lawyer) — Professional website for a lawyer offering legal services 
+- 🤖 [BOT IFE](https://github.com/NesniDev/BOT-IFE) — Academic chatbot for institutional information.
+- 📈 [Portfolio](https://github.com/NesniDev/Portfolio-Neider.dev) — Personal portfolio showcasing projects, skills, and experience.
+- 💭 [ChatGPT Local](https://github.com/NesniDev/CHATGPT-LOCAL) — Local AI assistant running LLM models offline.
+- 🖥️ [Técnico en Sistemas](https://github.com/NesniDev/TecnicoSistemas) — Educational platform for systems and IT training.
+- ⚖️ [Page Lawyer](https://github.com/NesniDev/Page-Lawyer) — Professional website for a lawyer offering legal services
 - 🎨 [Artex Alex](https://github.com/NesniDev/ArtexAlex) — Creative website to showcase handmade products made with metal and wood.
--->
+  -->
 
 <div>
   <h2>Technologies That I Know</h2>
@@ -113,14 +114,29 @@
   </tr>
 </table>
 
-
 <div align="center">
     <h2>📈 GitHub Analytics</h2>
 </div>
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=nesnidev&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=nesnidev&show_icons=true&count_private=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=nesnidev&show_icons=true&count_private=true&theme=default" height="200px">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=nesnidev&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=nesnidev&layout=compact&langs_count=8&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=nesnidev&layout=compact&langs_count=8&theme=default" height="200px">
+  </picture>
+
+</div>
+
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="analytics"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nesnidev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nesnidev&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
 </div>
 
   <h2 align="center" style="display: flex; justify-content: center; align-items: center;">Contact with me </h2>
