@@ -19,7 +19,6 @@ jobs:
 
       - name: Generar lista filtrada
         run: |
-          echo "## 🚀 Proyectos Destacados" > proyectos.md
           echo "" >> proyectos.md
           jq -r '.[] | select(.topics[]? == "mostrar-en-perfil") | "- [\(.name)](\(.html_url)) - \(.description // "Sin descripción")"' repos.json >> proyectos.md
 
