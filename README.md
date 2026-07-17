@@ -25,10 +25,12 @@
 - [ArtexAlex](https://github.com/NesniDev/ArtexAlex) - Creative website to showcase handmade products made with metal and wood.
 - [BOT-IFE](https://github.com/NesniDev/BOT-IFE) - Academic chatbot for institutional information.  
 - [CHATGPT-LOCAL](https://github.com/NesniDev/CHATGPT-LOCAL) - Local AI assistant running LLM models offline. 
+- [contadora](https://github.com/NesniDev/contadora) - Sin descripción
 - [Field-Football](https://github.com/NesniDev/Field-Football) - Football management system for teams, players, and match tracking.
 - [InventarioVL](https://github.com/NesniDev/InventarioVL) - Store inventory management platform.
 - [Page-Lawyer](https://github.com/NesniDev/Page-Lawyer) - Professional website for a lawyer offering legal services 
 - [Portfolio-Neider.dev](https://github.com/NesniDev/Portfolio-Neider.dev) - Personal portfolio showcasing projects, skills, and experience.
+- [SolvePc](https://github.com/NesniDev/SolvePc) - Sin descripción
 - [TecnicoSistemas](https://github.com/NesniDev/TecnicoSistemas) - Educational platform for systems and IT training. 
   <!-- END_PROJECTS -->
 
